@@ -1,0 +1,242 @@
+.bll,ul{
+  background-color: #F1F3F5;
+
+  height: 825px;
+  width: 200px;
+}
+Link{
+  text-decoration: none;
+}
+ul,li{
+ 
+  list-style-type: none;
+  position: relative;
+  top: 0;
+  padding:20px;
+  color:black;
+}
+li:after{
+    content:"";
+    position:absolute;
+    background-color: #F1F3F5;
+    height:30x;
+    width:20px;
+    transition: 0.3s;
+
+
+}
+li:hover{
+  color: black;
+  background-color:white;
+  border-radius: 10px;
+
+}
+li:hover:after{
+  width:100px;
+}
+.sa{
+  position: sticky;
+  top:0;
+  left:0;
+  height:100vh;
+}
+.man{
+  background-color: white;
+}
+.child1{
+background-color:white;
+border-radius: 30px;
+}
+#nm{
+
+  background-color: white;
+}
+#in{
+  position: absolute;
+  right:400px;
+  top:10px;
+  width: 500px;
+  border-radius: 20px;
+  background: transparent;
+  list-style-type: none;
+  text-decoration: none;
+  
+}
+#mm{
+  position: absolute;
+  right:900px;
+  top:15px;
+}
+.child11{
+ background-color:white;
+  height: 150px;
+  width: 300px; 
+  border-radius: 20px;
+
+}
+.child12{
+  background-color: white;
+   height: 150px;
+   width: 300px; 
+   border-radius: 20px;
+ 
+ }
+ .child13{
+  background-color: white;
+   height: 150px;
+   width: 300px; 
+   border-radius: 20px;
+   
+  
+ 
+ }
+ .child14{
+  background-color: white;
+   height: 150px;
+   width: 300px; 
+   border-radius: 20px;
+ 
+ }
+ #ll{
+  position:relative;
+  left:20px;
+  top:5px;
+ }
+ .sai2{
+  background-color: #F1F3F5;
+ }
+ .child15{
+  background-color:white;
+  border-radius: 30px;
+  width: 640px;
+  }
+  .sl{
+    background-color:white;
+    border-radius: 30px;
+    width: 640px;
+  
+    }
+    .child17{
+      position: relative;
+      left:20px;
+    }
+    .five1{
+      background-color: white;
+       height: 150px;
+       width: 300px; 
+       border-radius: 20px;
+    }
+    .six1{
+      background-color: white;
+       height: 150px;
+       width: 300px; 
+       border-radius: 20px;
+    }
+    .seven1{
+      background-color: white;
+       height: 150px;
+       width: 300px; 
+       border-radius: 20px;
+    }
+    .eight1{
+      background-color: white;
+       height:650px;
+       width: 300px; 
+       border-radius: 20px;
+    }
+    .kk{
+      position: relative;
+      left:20px;
+    }
+    .pp{
+      position: relative;
+      left:20px;
+      top:50px;
+    }
+    .five2{
+      background-color: white;
+       height:500px;
+       width: 950px; 
+       border-radius: 20px;
+    }
+    .oo{
+      position: relative;
+      left:50px;
+    }
+    .nine1{
+      background-color: white;
+       height:500px;
+       width: 600px; 
+       border-radius: 20px;
+    }
+.jj{font-size: 30px;}
+.qq{font-size: 20px;}
+table, th, td {
+  border: 1px solid;
+}
+.ww{
+  padding: 20px;
+}
+.uu{
+ margin-bottom: 15px;
+  
+
+}
+
+.cll{
+
+  background-color: white;
+}
+.fourteen{
+  position: relative;
+  top:5px;
+}
+#xx{
+  position:relative;
+  float:right;
+  right:100px;
+  width:500px;
+  background: transparent;
+  border-radius: 20px;
+
+}
+#aa{
+  position:absolute;
+  
+  left:950px;
+  top:60px;
+ 
+  
+}
+.jk{
+  position: relative;
+  left:30px;
+  top:40px;
+  background-color:white;
+  width: 700px;
+  text-align: center;
+}
+.zz{
+  position: relative;
+  float:right;
+  bottom: 300px;
+  right:50px;
+  background-color:white;
+  width: 500px;
+  text-align: center;
+}
+.kh:hover{
+ background-color:black;
+ color:white;
+ border-radius: 10px;
+
+}
+.kh{
+  background-color:red;
+  color:white;
+  border-radius: 10px;
+} 
+.ee{
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
